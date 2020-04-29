@@ -1,4 +1,4 @@
-# Medical Text Summarization
+# Medical Article Summarization
 
 Compare two methods of medical article text summarization: GloVe vector + TextRank, versus entity detection (ScispaCy) + cui2vec embedding + TextRank.
 
